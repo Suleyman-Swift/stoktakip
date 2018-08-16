@@ -1,0 +1,2 @@
+# stoktakip
+stok takip 
